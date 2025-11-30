@@ -1,6 +1,8 @@
 # Lakshay Store Data Analysis Project (Interactive Dashboard created using MS Excel) 
 ## PROJECT OBJECTIVE 
-The Lakshay store wants to create an annual sales report for 2025! So with the help of our dashboard the store can easily understand their sales, their customers and what upgradation the store need to increase their sales in the upcoming years.
+The Lakshay store wants to create an annual sales report for 2025! So with the help of our dashboard the store can easily understand their sales, their customers and what upgradation the store need to increase their sales in the upcoming years. 
+## Data Used 
+* <a href="https://github.com/Sahilkadam2002/Data-Analysis-Dashboard-/blob/main/Lakshay%20Store%20Data%20Analysis.xlsx">Dataset</a> 
 ## KPI'S 
 * We have compare the sales and orders using a single chart. So the store will understand their highest sales. 
 * Made a chart of sales and orders so with the help of this chart store will understand their highest sales happen in which month. 
