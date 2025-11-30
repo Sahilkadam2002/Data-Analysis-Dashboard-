@@ -16,3 +16,5 @@ The Lakshay store wants to create an annual sales report for 2025! So with the h
 * Made sure data is consistent and clean with respect to data type, date format and value used. 
 * Created pivot tables according to the questions asked by the store. 
 * Merge all pivote tables into one dashboard and apply slicer to make dynamic. 
+## Dashboard 
+<img width="1856" height="682" alt="Lakshay store dashboard screenshot " src="https://github.com/user-attachments/assets/8741f15f-7001-4e0e-b8b7-f44fc1bc8e58" />
