@@ -1,2 +1,3 @@
-# Data-Analysis-Dashboard-
-This project presents an interactive Sales Data Analysis Dashboard built using Microsoft Excel. It provides a comprehensive overview of key sales metrics, enabling users to analyze performance, identify trends, and make data-driven decisions.
+# Lakshay Store Data Analysis Project (Interactive Dashboard created using MS Excel) 
+## PROJECT OBJECTIVE 
+The Lakshay store wants to create an annual sales report for 2022! So with the help of our dashboard the store can easily understand their sales, their customers and what upgradation the store need to increase their sales in the upcoming years.
